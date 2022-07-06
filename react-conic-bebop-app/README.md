@@ -1,0 +1,7 @@
+- Reference
+  - [how-to-calculate-the-svg-path-for-an-arc-of-a-circle](https://stackoverflow.com/questions/5736398/how-to-calculate-the-svg-path-for-an-arc-of-a-circle)
+  - [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+  - [arc](https://jsbin.com/quhujowota/1/edit?html,js,console,output)
+  - [svg-path-fill-behaviour-with-arcs](https://stackoverflow.com/questions/34072051/svg-path-fill-behaviour-with-arcs)
+  - [arc demo](https://codepen.io/AnotherLinuxUser/pen/QEJmZN)
+  - [circle](https://stackoverflow.com/questions/13652518/efficiently-find-points-inside-a-circle-sector?noredirect=1&lq=1)

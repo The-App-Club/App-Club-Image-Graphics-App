@@ -1,0 +1,38 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+.file {
+  visibility: hidden;
+}
+
+body {
+  display: grid;
+  place-items: center;
+}
+
+.workspace {
+  border: 1px solid #000;
+  width: 400px;
+  height: 400px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.workspace.output {
+  border: 1px solid #000;
+  width: 400px;
+  height: 400px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  background-blend-mode: screen;
+  background-color: #222222;
+}
